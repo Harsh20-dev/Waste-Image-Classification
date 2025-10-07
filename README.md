@@ -107,3 +107,5 @@ If you’d like to collaborate or discuss AI for sustainability, feel free to co
 
 ### 🏷️ Tags
 `#AI` `#DeepLearning` `#ComputerVision` `#WasteManagement` `#Sustainability` `#TensorFlow` `#Python` `#VGG16` `#MachineLearning`
+### Dataset 
+https://www.kaggle.com/datasets/techsash/waste-classification-data
