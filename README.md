@@ -51,7 +51,7 @@ DATASET/
       └── R/   → Recyclable test images
 ```
 🧾 Each folder contains hundreds of labeled images of organic and recyclable waste materials.
-
+Download Dataset from here - https://www.kaggle.com/datasets/techsash/waste-classification-data
 ---
 
 ### 📊 Results
